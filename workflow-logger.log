@@ -1,0 +1,162 @@
+2024-04-04 03:23:39,805 - workflow-logger - INFO - 
+Workflow started....
+
+2024-04-04 03:23:39,805 - workflow-logger - INFO - Loading grid points for Germany....
+2024-04-04 03:23:43,163 - workflow-logger - INFO - Grid points loaded successfully for Germany
+
+2024-04-04 03:23:43,174 - workflow-logger - INFO - 
+
+     point  cell                 grid        lat        lon
+0  4838920  1395  Fibonacci (6.25 km)  47.344479  10.382991
+1  4841504  1395  Fibonacci (6.25 km)  47.377457  10.320685
+2  4843101  1395  Fibonacci (6.25 km)  47.397850  10.421497
+3  4844088  1395  Fibonacci (6.25 km)  47.410458  10.258380
+4  4845685  1395  Fibonacci (6.25 km)  47.430862  10.359192
+2024-04-04 03:23:43,174 - workflow-logger - INFO - Running the anomaly detection workflow for Germany....
+
+2024-04-04 03:23:43,174 - workflow-logger - INFO - Workflow parameters:
+
+2024-04-04 03:23:43,174 - workflow-logger - INFO -     Anomaly detection methods: zscore, smad
+2024-04-04 03:23:43,174 - workflow-logger - INFO -     Variable: sm
+2024-04-04 03:23:43,174 - workflow-logger - INFO -     Time step for Climatology: month
+2024-04-04 03:23:43,174 - workflow-logger - INFO -     Date parameters:
+
+2024-04-04 03:23:43,175 - workflow-logger - INFO -      Year: [2021, 2021]
+2024-04-04 03:23:43,175 - workflow-logger - INFO -      Month: [6, 7]
+2024-04-04 03:23:46,001 - workflow-logger - INFO - Function run took 6.196100234985352 seconds
+2024-04-04 03:23:46,010 - workflow-logger - INFO - 
+
+      point  cell  ... smad(2021-6)  smad(2021-7)
+0  4838920  1395  ...    -0.944715      1.252402
+1  4841504  1395  ...    -0.477110      1.159104
+2  4843101  1395  ...    -0.625209      1.041969
+3  4844088  1395  ...    -0.186536      0.941893
+4  4845685  1395  ...    -0.186146      1.005243
+5  4846672  1395  ...    -0.045061      0.982845
+6  4847282  1395  ...    -0.563833      0.718159
+7  4848269  1395  ...     0.092623      1.019919
+8  4849256  1395  ...    -0.083890      0.867412
+9  4849866  1395  ...    -0.291478      0.923703
+
+[10 rows x 9 columns]
+2024-04-04 03:29:48,527 - workflow-logger - INFO - 
+Workflow started....
+
+2024-04-04 03:29:48,527 - workflow-logger - INFO - Loading grid points for Germany....
+2024-04-04 03:29:51,864 - workflow-logger - INFO - Grid points loaded successfully for Germany
+
+2024-04-04 03:29:51,872 - workflow-logger - INFO - 
+
+     point  cell                 grid        lat        lon
+0  4838920  1395  Fibonacci (6.25 km)  47.344479  10.382991
+1  4841504  1395  Fibonacci (6.25 km)  47.377457  10.320685
+2  4843101  1395  Fibonacci (6.25 km)  47.397850  10.421497
+3  4844088  1395  Fibonacci (6.25 km)  47.410458  10.258380
+4  4845685  1395  Fibonacci (6.25 km)  47.430862  10.359192
+2024-04-04 03:29:51,872 - workflow-logger - INFO - Running the anomaly detection workflow for Germany....
+
+2024-04-04 03:29:51,872 - workflow-logger - INFO - Workflow parameters:
+
+2024-04-04 03:29:51,872 - workflow-logger - INFO -     Anomaly detection methods: zscore, smad
+2024-04-04 03:29:51,872 - workflow-logger - INFO -     Variable: sm
+2024-04-04 03:29:51,872 - workflow-logger - INFO -     Time step for Climatology: month
+2024-04-04 03:29:51,872 - workflow-logger - INFO -     Date parameters:
+
+2024-04-04 03:29:51,872 - workflow-logger - INFO -      Year: [2021, 2021]
+2024-04-04 03:29:51,872 - workflow-logger - INFO -      Month: [6, 7]
+2024-04-04 03:29:52,696 - workflow-logger - INFO - Function run took 4.169738292694092 seconds
+2024-04-04 03:29:52,705 - workflow-logger - INFO - 
+
+      point  cell  ... smad(2021-6)  smad(2021-7)
+0  4838920  1395  ...    -0.944715      1.252402
+1  4841504  1395  ...    -0.477110      1.159104
+2  4843101  1395  ...    -0.625209      1.041969
+3  4844088  1395  ...    -0.186536      0.941893
+4  4845685  1395  ...    -0.186146      1.005243
+5  4846672  1395  ...    -0.045061      0.982845
+6  4847282  1395  ...    -0.563833      0.718159
+7  4848269  1395  ...     0.092623      1.019919
+8  4849256  1395  ...    -0.083890      0.867412
+9  4849866  1395  ...    -0.291478      0.923703
+
+[10 rows x 9 columns]
+2024-04-04 03:30:02,469 - workflow-logger - INFO - 
+Workflow started....
+
+2024-04-04 03:30:02,469 - workflow-logger - INFO - Loading grid points for Germany....
+2024-04-04 03:30:05,767 - workflow-logger - INFO - Grid points loaded successfully for Germany
+
+2024-04-04 03:30:05,773 - workflow-logger - INFO - 
+
+     point  cell                 grid        lat        lon
+0  4838920  1395  Fibonacci (6.25 km)  47.344479  10.382991
+1  4841504  1395  Fibonacci (6.25 km)  47.377457  10.320685
+2  4843101  1395  Fibonacci (6.25 km)  47.397850  10.421497
+3  4844088  1395  Fibonacci (6.25 km)  47.410458  10.258380
+4  4845685  1395  Fibonacci (6.25 km)  47.430862  10.359192
+2024-04-04 03:30:05,773 - workflow-logger - INFO - Running the anomaly detection workflow for Germany....
+
+2024-04-04 03:30:05,773 - workflow-logger - INFO - Workflow parameters:
+
+2024-04-04 03:30:05,773 - workflow-logger - INFO -     Anomaly detection methods: zscore, smad
+2024-04-04 03:30:05,773 - workflow-logger - INFO -     Variable: sm
+2024-04-04 03:30:05,773 - workflow-logger - INFO -     Time step for Climatology: month
+2024-04-04 03:30:05,773 - workflow-logger - INFO -     Date parameters:
+
+2024-04-04 03:30:05,773 - workflow-logger - INFO -      Year: [2021, 2021]
+2024-04-04 03:30:05,773 - workflow-logger - INFO -      Month: [6, 7]
+2024-04-04 03:30:06,575 - workflow-logger - INFO - Function run took 4.105276107788086 seconds
+2024-04-04 03:30:06,583 - workflow-logger - INFO - 
+
+      point  cell  ... smad(2021-6)  smad(2021-7)
+0  4838920  1395  ...    -0.944715      1.252402
+1  4841504  1395  ...    -0.477110      1.159104
+2  4843101  1395  ...    -0.625209      1.041969
+3  4844088  1395  ...    -0.186536      0.941893
+4  4845685  1395  ...    -0.186146      1.005243
+5  4846672  1395  ...    -0.045061      0.982845
+6  4847282  1395  ...    -0.563833      0.718159
+7  4848269  1395  ...     0.092623      1.019919
+8  4849256  1395  ...    -0.083890      0.867412
+9  4849866  1395  ...    -0.291478      0.923703
+
+[10 rows x 9 columns]
+2024-04-04 03:37:09,774 - workflow-logger - INFO - 
+Workflow started....
+
+2024-04-04 03:37:09,774 - workflow-logger - INFO - Loading grid points for Germany....
+2024-04-04 03:37:12,932 - workflow-logger - INFO - Grid points loaded successfully for Germany
+
+2024-04-04 03:37:12,942 - workflow-logger - INFO - 
+
+     point  cell                 grid        lat        lon
+0  4838920  1395  Fibonacci (6.25 km)  47.344479  10.382991
+1  4841504  1395  Fibonacci (6.25 km)  47.377457  10.320685
+2  4843101  1395  Fibonacci (6.25 km)  47.397850  10.421497
+3  4844088  1395  Fibonacci (6.25 km)  47.410458  10.258380
+4  4845685  1395  Fibonacci (6.25 km)  47.430862  10.359192
+2024-04-04 03:37:12,942 - workflow-logger - INFO - Running the anomaly detection workflow for Germany....
+
+2024-04-04 03:37:12,943 - workflow-logger - INFO - Workflow parameters:
+
+2024-04-04 03:37:12,943 - workflow-logger - INFO -     Anomaly detection methods: zscore, smad
+2024-04-04 03:37:12,943 - workflow-logger - INFO -     Variable: sm
+2024-04-04 03:37:12,943 - workflow-logger - INFO -     Time step for Climatology: month
+2024-04-04 03:37:12,943 - workflow-logger - INFO -     Date parameters:
+
+2024-04-04 03:37:12,943 - workflow-logger - INFO -      Year: [2021, 2021]
+2024-04-04 03:37:12,943 - workflow-logger - INFO -      Month: [6, 7]
+2024-04-04 03:37:13,655 - workflow-logger - INFO - Function run took 3.8809845447540283 seconds
+2024-04-04 03:37:13,661 - workflow-logger - INFO - 
+
+      point  cell                 grid        lat        lon  zscore(2021-6)  zscore(2021-7)  smad(2021-6)  smad(2021-7)
+0  4838920  1395  Fibonacci (6.25 km)  47.344479  10.382991       -0.876612        1.352159     -0.944715      1.252402
+1  4841504  1395  Fibonacci (6.25 km)  47.377457  10.320685       -0.549212        1.611515     -0.477110      1.159104
+2  4843101  1395  Fibonacci (6.25 km)  47.397850  10.421497       -0.721812        1.469408     -0.625209      1.041969
+3  4844088  1395  Fibonacci (6.25 km)  47.410458  10.258380       -0.428590        1.438613     -0.186536      0.941893
+4  4845685  1395  Fibonacci (6.25 km)  47.430862  10.359192       -0.527157        1.375189     -0.186146      1.005243
+5  4846672  1395  Fibonacci (6.25 km)  47.443474  10.196074       -0.279785        1.487250     -0.045061      0.982845
+6  4847282  1395  Fibonacci (6.25 km)  47.451275  10.460005       -0.965756        1.164680     -0.563833      0.718159
+7  4848269  1395  Fibonacci (6.25 km)  47.463894  10.296887       -0.057875        1.505374      0.092623      1.019919
+8  4849256  1395  Fibonacci (6.25 km)  47.476517  10.133770       -0.292432        1.218809     -0.083890      0.867412
+9  4849866  1395  Fibonacci (6.25 km)  47.484318  10.397699       -0.467977        1.308058     -0.291478      0.923703
