@@ -28,3 +28,4 @@ datashader
 pycountry
 PyQt5
 PySide2
+ipywidgets
